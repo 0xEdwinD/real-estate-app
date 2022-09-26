@@ -15,7 +15,6 @@
 
 ```bash
 cd RapidAPI\ DevRel-Examples-External\ main\ real-estate-app/
-```
 evRel-Examples-External/real-estate-app
 ```
 
