@@ -1,4 +1,4 @@
-
+![cover](assets/page.png)
 <div align="center">
 	<h2>Real State App</h2>
 </div>
