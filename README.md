@@ -1,14 +1,7 @@
-![cover](assets/cover.png)
 
 <div align="center">
 	<h2>Real State App</h2>
 </div>
-
-> [Live Preview](https://rapidapi-example-real-estate-app.vercel.app/)
-
-## Guide
-
-[Read a step-by-step guide to build this application.](https://rapidapi.com/guides/build-real-estate-app)
 
 ### ⚡️ Features
 
@@ -16,7 +9,7 @@
 
 ### 🛠️ Installation Steps
 
-1. Download the `real-estate-app` directory. Click [here](https://download-directory.github.io/?url=https://github.com/RapidAPI/DevRel-Examples-External/tree/main/real-estate-app) to download it.
+1. Download the `real-estate-app` directory.
 
 2. Unzip the downloaded file and navigate to the working directory.
 
