@@ -1,6 +1,6 @@
 ![cover](assets/page.png)
 <div align="center">
-	<h2>Real State App</h2>
+	<h2>Real Estate App</h2>
 </div>
 
 ### ⚡️ Features
